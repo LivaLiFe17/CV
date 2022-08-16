@@ -1,0 +1,77 @@
+h1{
+	color: blue;
+	text-align: center;
+}
+h3{
+	color: grey;
+	margin-left: 30px;
+}
+
+#nom{
+	padding-left: 225px;
+}	
+#admail{
+	padding-left: 157px;
+}
+	
+#tel{
+	padding-left: 120px;
+}
+	
+#linkedin{
+	padding-left: 200px;
+}
+
+#addresse{
+	padding-left: 206px;
+}
+#photo{
+	margin-left: 1000px;
+}
+#aa{
+	margin-left: 30px;
+}
+#hr{
+	margin-left: 30px;
+	margin-right: 121px;
+}
+p{
+	margin-left: 30px;
+	margin-right: 121px;
+	text-align: justify;
+}
+#janv{
+	margin-left: 30px;
+}
+tr{
+	margin-left: 30px;
+}
+#offman{
+	padding-left: 130px;
+	font-family: bold;
+}
+#dp{
+	padding-left: 259px;
+	font-family: bold;
+}
+#ul{
+	padding-left: 259px;
+}
+ul{
+	padding-left: 320px;
+}
+#responsable{
+	padding-left: 126px;
+}
+#tit{
+	padding-left: 115px;
+}
+#efap{
+	padding-left: 260px;
+}
+#lic{
+	padding-left: 150px;
+}
+#par{
+	padding-left: 260px;
+}
